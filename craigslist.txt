@@ -1,0 +1,3 @@
+This is an example with <select>tech is fun|technology is cool|stuff is neat</select> to test out our functions.
+I'm testing <select>lots of stuff|tons|much to do</select> stuff.
+
